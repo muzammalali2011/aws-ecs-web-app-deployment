@@ -1,3 +1,4 @@
+```mermaid
 graph TB
     IGW((Internet<br>Gateway))
 
@@ -47,3 +48,4 @@ graph TB
     class PrivSub1,PrivSub2 privSub;
     class ECS1,ECS2,NAT1,NAT2 aws;
     class IGW,ALB gateway;
+```
